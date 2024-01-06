@@ -10,7 +10,7 @@ public class Father extends Grandfather {
         return work;
     }
 
-    public void goWork() {
+    public final void goWork() {
         System.out.println("Идет на работу в 8 утра ");
     }
 
