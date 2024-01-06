@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum HobbyEnum {
+public enum HobbyEnum {
+    READING_BOOKS,
+    PAINTING,
+    GARDENING,
+    PLAYING_BOARD_GAMES
 }
